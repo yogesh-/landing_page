@@ -1,6 +1,6 @@
 This app here is a landing page to collect email addresses.
 
-The main login home page has sections :
+The main home page has sections :
   About Us
   Contact Us
   Dropdown (static/not functional)
