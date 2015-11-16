@@ -1,9 +1,9 @@
 This app here is a landing page to collect email addresses.
 
 Used:
-1. Python / Framework- Django
-2.HTML
-3.CSS and bootstrap
+  1. Python / Framework- Django
+  2.HTML
+  3.CSS and bootstrap
 
 
 
