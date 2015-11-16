@@ -1,8 +1,18 @@
 This app here is a landing page to collect email addresses.
 
-The main home page has sections :
-  About Us
-  Contact Us
-  Dropdown (static/not functional)
-  
+Used:
+1. Python / Framework- Django
+2.HTML
+3.CSS and bootstrap
+
+
+
+Screnshots -->
+
+
+Homepage -
+
+https://cloud.githubusercontent.com/assets/7193961/11178266/b70e1ef0-8c71-11e5-99d9-b3f7ce08918d.png
+
+
 
