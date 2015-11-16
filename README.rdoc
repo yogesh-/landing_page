@@ -11,7 +11,7 @@ Webapp screenshots :-
 
 Homepage -
 
-https://cloud.githubusercontent.com/assets/7193961/11178266/b70e1ef0-8c71-11e5-99d9-b3f7ce08918d.png
+https://cloud.githubusercontent.com/assets/7193961/11185004/9f292c88-8ca0-11e5-92c9-2c958607e185.png
 
 Django admin page with user details -
 
