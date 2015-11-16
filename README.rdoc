@@ -1,8 +1,41 @@
-This app here is a landing page to collect email addresses.
 
-The main home page has sections :
-  About Us
-  Contact Us
-  Dropdown (static/not functional)
+LANDING PAGE
+
+  This app is a landing page designed to collect email addresses on the internet for campaigns.
+  Used:
+  1. Python / Framework- Django
+  2.HTML
+  3.CSS and bootstrap
   
+Webapp screenshots :-
 
+Homepage -
+
+https://cloud.githubusercontent.com/assets/7193961/11178266/b70e1ef0-8c71-11e5-99d9-b3f7ce08918d.png
+
+Django admin page with user details -
+
+https://cloud.githubusercontent.com/assets/7193961/11178864/9aff8038-8c75-11e5-874b-5cc8ca5606e5.png
+
+Contact Us -
+
+https://cloud.githubusercontent.com/assets/7193961/11178933/fa7610b8-8c75-11e5-8e01-7fd709d4df51.png
+
+
+Installation :-
+
+1.  $ git clone https://github.com/yogesh-/landing_page.git
+2.  $ python manage.py runserver  
+      # Run this command from the directory where manage.py is present i.e /src.
+
+Usage :-
+
+1. Admin Login :
+    - Login to admin to see the data collected by our landing pages. Apart from this you can also use admin page          for user management.
+2. Web app 
+    Would be accessible on localhost or on URL after hosting the app online.
+    
+
+License :-
+
+GNU/General Public License
